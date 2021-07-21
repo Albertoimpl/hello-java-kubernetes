@@ -1,0 +1,15 @@
+.gradle
+.idea
+*.tgz
+*.tar.gz
+*.jar
+!gradle/**/*
+*.iml
+**/.classpath
+**/.project
+**/.settings
+**/build/
+**/target/
+**/out/
+**/hs_err_pid*
+.attach_pid*
